@@ -1,27 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Website</title>
+    <title>Yael Shapira | Photography</title>
     <link href="/styles/main.css" rel="stylesheet" />
   </head>
   <body>
-    <header role="banner">
-      <h1>Welcome to my Website!</h1>
-    </header>
-    <main>
-      <p>This is a paragraph.</p>
-      <a href="/elements.html">Elements Page</a>
 
-      <div class="counter">
-        <h2>Counter</h2>
-        <button id="increment" class="counter-button">+</button>
-        <button id="decrement" class="counter-button">−</button>
-        <span id="count">0</span>
+    <header class="hero-strip">
+      <div class="strip-inner">
+        <h1 class="site-title">Yael Shapira</h1>
+
+        <!-- Hamburger button on the right side of the header -->
+        <button class="rail-handle" aria-label="Open menu" aria-expanded="false" title="Menu">
+          <span></span><span></span><span></span>
+        </button>
       </div>
+    </header>
+
+    <!-- Side rail that opens on click -->
+    <aside class="side-rail" aria-label="Navigation and filters">
+      <nav class="rail-content" aria-hidden="true">
+        <ul class="menu-list">
+          <li><button class="menu-link" type="button" data-nav="home">Home</button></li>
+          <li><button class="menu-link" type="button" data-filter="Nature">Nature</button></li>
+          <li><button class="menu-link" type="button" data-filter="Urban">Urban</button></li>
+          <li><button class="menu-link" type="button" data-filter="Abstract">Abstract</button></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <!-- Overlay to close the side rail when clicking outside -->
+    <div class="rail-overlay" hidden aria-hidden="true"></div>
+
+    <main id="gallery" class="container">
+      <h2 class="section-title" aria-hidden="true"></h2>
+
+      <div id="homeGrid" class="grid-masonry" aria-live="polite"></div>
+      <div id="infiniteSentinel" class="sentinel" aria-hidden="true"></div>
     </main>
+
+    <footer class="footer">
+      <p>&copy; 2025 Yael Shapira. All rights reserved.</p>
+    </footer>
 
     <script type="module" src="/main.js"></script>
   </body>
