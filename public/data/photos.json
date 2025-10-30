@@ -2,7 +2,7 @@
     {
     "id": 1,
     "title": "Above the Earth || China",
-    "file": "public/photos/nature/Above the Earth.jpg",
+    "file": "photos\\nature\\above_the_earth.jpg",
     "category": "nature",
     "description": "Guillin River through karst mountains from the sky.",
     "latitude": 35.86,
@@ -11,7 +11,7 @@
     {
     "id": 2,
     "title": "Arabian Night || Morocco",
-    "file": "public/photos/nature/arabian night.JPG",
+    "file": "photos\\nature\\arabian_night.JPG",
     "category": "nature",
     "description": "The moon rises above golden dunes as camels cross the silent desert.",
     "latitude": 31.79,
@@ -20,7 +20,7 @@
     {
     "id": 3,
     "title": "Golden Field || Germany",
-    "file": "public/photos/nature/Golden Horizon.jpg",
+    "file": "photos\\nature\\golden_horizon.jpg",
     "category": "nature",
     "description": "Golden fields sway beneath a restless sky.",
     "latitude": 48.85,
@@ -29,7 +29,7 @@
     {
     "id": 4,
     "title": "Edge of the Sky || Montenegro",
-    "file": "public/photos/nature/Edge of the Sky.JPG",
+    "file": "photos\\nature\\edge_of_the_sky.jpg",
     "category": "nature",
     "description": "Where earth meets sky, the mountains breathe.",
     "latitude": 48.85,
@@ -38,7 +38,7 @@
     {
     "id": 5,
     "title": "The Endless Wall || China",
-    "file": "public/photos/nature/The Endless Wall.jpg",
+    "file": "photos\\nature\\the_endless_wall.jpg",
     "category": "nature",
     "description": "The Great Wall stretches endlessly through green hills and time.",
     "latitude": 35.86,
@@ -47,7 +47,7 @@
     {
     "id": 6,
     "title": "The Avatar Mountains || China",
-    "file": "public/photos/nature/Where the Sky Touches Stone.jpg",
+    "file": "photos\\nature\\where_the_sky_touches_stone.jpg",
     "category": "nature",
     "description": "The Avatar Mountains rise mystically through the mist.",
     "latitude": 35.86,
@@ -56,7 +56,7 @@
     {
     "id": 7,
     "title": "Footprints of Time || Morocco",
-    "file": "public/photos/nature/Footprints of Time.JPG",
+    "file": "photos\\nature\\footprints_of_time.JPG",
     "category": "nature",
     "description": "Towering cliffs emerge from a sea of green.",
     "latitude": 31.79,
@@ -65,7 +65,7 @@
     {
     "id": 8,
     "title": "Following the Ridge || China",
-    "file": "public/photos/nature/Following the Ridge.jpg",
+    "file": "photos\nature\following_the_ridge.jpg",
     "category": "nature",
     "description": "Rhapsody cruise along the winding river.",
     "latitude": 35.86,
@@ -74,7 +74,7 @@
     {
     "id": 9,
     "title": "Road to the Clouds || Georgia",
-    "file": "public/photos/nature/Road to the Clouds.jpg",
+    "file": "photos\\nature\\road_to_the_clouds.jpg",
     "category": "nature",
     "description": "Gliding through calm waters surrounded by green peaks.",
     "latitude": 42.32,
@@ -83,7 +83,7 @@
     {
     "id": 10,
     "title": "Windows of Nature || Austria",
-    "file": "public/photos/nature/windows of Nature.jpg",
+    "file": "photos\\nature\\windows_of_nature.jpg",
     "category": "nature",
     "description": "Through a veil of vines, light and architecture meet.",
     "latitude": 47.52,
@@ -92,7 +92,7 @@
     {
     "id": 11,
     "title": "The Road Ahead || Montenegro",
-    "file": "public/photos/nature/The Road Ahead.jpg",
+    "file": "photos\\nature\\the_road_ahead.jpg",
     "category": "nature",
     "description": "Snowy peaks rise beyond an empty road under a dramatic sky.",
     "latitude": 42.71,
@@ -101,7 +101,7 @@
     {
     "id": 12,
     "title": "Before the Fall || Slovakia",
-    "file": "public/photos/nature/Before the Fall.jpg",
+    "file": "photos\\nature\\before_the_fall.jpg",
     "category": "nature",
     "description": "Sunlight filters through a crown of gold and amber.",
     "latitude": 51.17,
@@ -110,7 +110,7 @@
     {
     "id": 13,
     "title": "Budapest Rhythm || Hungary",
-    "file": "public/photos/urban/Budapest Rhythm.jpg",
+    "file": "photos\\urban\\budapest_rhythm.jpg",
     "category": "urban",
     "description": "A yellow tram crosses the iconic Chain Bridge.",
     "latitude": 47.50,
@@ -119,7 +119,7 @@
     {
     "id": 14,
     "title": "Midnight Over The Danube || Hungary",
-    "file": "public/photos/urban/Midnight Over the Danube.jpg",
+    "file": "photos\\urban\\danube.jpg",
     "category": "urban",
     "description": "Light trace at the night over the liberty bridge.",
     "latitude": 47.50,
@@ -128,7 +128,7 @@
     {
     "id": 15,
     "title": "Sky Between Towers || New York",
-    "file": "public/photos/urban/sky_between_towers.jpg",
+    "file": "/photos/urban/sky_between_towers.jpg",
     "category": "urban",
     "description": "A glimpse of the sky between towering skyscrapers.",
     "latitude": 40.48,
@@ -137,7 +137,7 @@
     {
     "id": 16,
     "title": "Timeless Hallway || Austria",
-    "file": "public/photos/urban/golden_silence.jpg",
+    "file": "/photos/urban/golden_silence.jpg",
     "category": "urban",
     "description": "Marble and gold whisper stories of another time",
     "latitude": 34.05,
@@ -146,7 +146,7 @@
     {
     "id": 17,
     "title": "Still Geometry || Austria",
-    "file": "public/photos/urban/Still Geometry.jpg",
+    "file": "/photos/urban/still_geometry.jpg",
     "category": "urban",
     "description": "Vienna streets black and white.",
     "latitude": 34.05,
@@ -155,7 +155,7 @@
     {
     "id": 18,
     "title": "New York Streets || New York",
-    "file": "public/photos/urban/new_york_street.jpg",
+    "file": "/photos/urban/new_york_street.jpg",
     "category": "urban",
     "description": "A bustling street scene in the heart of New York City.",
     "latitude": 40.71,
@@ -164,7 +164,7 @@
     {
     "id": 19,
     "title": "Tel Aviv Vibes || Israel",
-    "file": "public/photos/urban/Tel Aviv nights.jpg",
+    "file": "/photos/urban/tel_aviv_nights.jpg",
     "category": "urban",
     "description": "Sunset in Tel Aviv with vibrant colors.",
     "latitude": 32.08,
@@ -173,7 +173,7 @@
     {
     "id": 20,
     "title": "Temple Of Heaven || China",
-    "file": "public/photos/urban/Temple Of Heaven.jpg",
+    "file": "/photos/urban/temple_of_heaven.jpg",
     "category": "urban",
     "description": "A stunning view of the Temple of Heaven.",
     "latitude": 39.88,
@@ -182,7 +182,7 @@
     {
     "id": 21,
     "title": "Light Patterns || China",
-    "file": "public/photos/abstract/Light Pattern.jpg",
+    "file": "/photos/abstract/light_patterns.jpg",
     "category": "abstract",
     "description": "Red lanterns glow softly against the night.",
     "latitude": 34.05,
@@ -191,7 +191,7 @@
     {
     "id": 22,
     "title": "Lines Of Tradition || China",
-    "file": "public/photos/abstract/Lines Of Tradition.jpg",
+    "file": "/photos/abstract/lines_of_tradition.jpg",
     "category": "abstract",
     "description": "Colors and patterns meet in perfect harmony beneath the sky.",
     "latitude": 34.05,
@@ -200,7 +200,7 @@
     {
     "id": 23,
     "title": "Stone Mandala || Germany",
-    "file": "public/photos/abstract/Stone Mandala.jpg",
+    "file": "/photos/abstract/stone_mandala.jpg",
     "category": "abstract",
     "description": "Intricate patterns carved in stone tell stories of the past.",
     "latitude": 51.16,
@@ -209,7 +209,7 @@
     {
     "id": 24,
     "title": "Urban Spiral || China",
-    "file": "public/photos/abstract/Urban Spiral.jpg",
+    "file": "/photos/abstract/urban_spiral.jpg",
     "category": "abstract",
     "description": "Geometry flows through mirrored lines and forms.",
     "latitude": 34.05,
@@ -218,7 +218,7 @@
     {
     "id": 25,
     "title": "Window to the Sky || Georgia",
-    "file": "public/photos/abstract/Window to the Sky.jpg",
+    "file": "/photos/abstract/window_to_the_sky.jpg",
     "category": "abstract",
     "description": "Through shadow and ruin, the blue beyond remains.",
     "latitude": 42.32,
@@ -227,7 +227,7 @@
     {
     "id": 26,
     "title": "Days of Change || Slovakia",
-    "file": "public/photos/nature/Days of Change.JPG",
+    "file": "/photos/nature/days_of_change.jpg",
     "category": "nature",
     "description": "A lone tree blazes red beneath the clear autumn sky.",
     "latitude": 51.17,
@@ -236,7 +236,7 @@
     {
     "id": 27,
     "title": "Venice Square || Italy",
-    "file": "public/photos/urban/venice_sqr_black&white.JPG",
+    "file": "/photos/urban/venice_sqr.JPG",
     "category": "urban",
     "description": "A quiet moment in the bustling square, captured in black and white.",
     "latitude": 45.44,
@@ -245,7 +245,7 @@
     {
     "id": 28,
     "title": "Sunset over Brooklyn Bridge || New York",
-    "file": "public/photos/urban/Twilight Over brooklyn bridge.jpg",
+    "file": "/photos/urban/brooklyn_bridge.jpg",
     "category": "urban",
     "description": "A stunning sunset view over the Brooklyn Bridge.",
     "latitude": 40.70,
@@ -255,7 +255,7 @@
     {
     "id": 29,
     "title": "Echos of the Valley || Georgia",
-    "file": "public/photos/nature/Echoes of the Valley.jpg",
+    "file": "/photos/nature/echoes_of_the_valley.jpg",
     "category": "nature",
     "description": "A view over the Echos of the Valley.",
     "latitude": 40.70,
@@ -263,7 +263,7 @@
 },{
     "id": 30,
     "title": "Cathedral of Light || Georgia",
-    "file": "public/photos/urban/Cathedral of Light.jpg",
+    "file": "/photos/urban/cathedral_of_light.jpg",
     "category": "urban",
     "description": "Lines of Faith.",
     "latitude": 40.70,
@@ -272,7 +272,7 @@
     },{
     "id": 31,
     "title": "Chicago city pulse || Chicago",
-    "file": "public/photos/urban/Chicago.jpg",
+    "file": "/photos/urban/hicago.jpg",
     "category": "urban",
     "description": "Chicago busy streets at night.",
     "latitude": 40.70,
@@ -282,7 +282,7 @@
     {
     "id": 32,
     "title": "Window to the past || Italy",
-    "file": "public/photos/abstract/Windows to the Infinite.JPG",
+    "file": "/photos/abstract/windows_to_the_infinite.jpg",
     "category": "abstract",
     "description": "Inner yard in Rome.",
     "latitude": 40.70,
