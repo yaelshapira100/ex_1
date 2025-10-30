@@ -65,7 +65,7 @@
     {
     "id": 8,
     "title": "Following the Ridge || China",
-    "file": "photos\nature\following_the_ridge.jpg",
+    "file": "photos\\nature\\following_the_ridge.jpg",
     "category": "nature",
     "description": "Rhapsody cruise along the winding river.",
     "latitude": 35.86,
@@ -182,7 +182,7 @@
     {
     "id": 21,
     "title": "Light Patterns || China",
-    "file": "/photos/abstract/light_patterns.jpg",
+    "file": "photos/abstract/light_pattern.jpg",
     "category": "abstract",
     "description": "Red lanterns glow softly against the night.",
     "latitude": 34.05,
@@ -200,7 +200,7 @@
     {
     "id": 23,
     "title": "Stone Mandala || Germany",
-    "file": "/photos/abstract/stone_mandala.jpg",
+    "file": "photos/abstract/stone_mandala.jpg",
     "category": "abstract",
     "description": "Intricate patterns carved in stone tell stories of the past.",
     "latitude": 51.16,
@@ -218,7 +218,7 @@
     {
     "id": 25,
     "title": "Window to the Sky || Georgia",
-    "file": "/photos/abstract/window_to_the_sky.jpg",
+    "file": "photos\\abstract\\georgia.jpg",
     "category": "abstract",
     "description": "Through shadow and ruin, the blue beyond remains.",
     "latitude": 42.32,
@@ -227,7 +227,7 @@
     {
     "id": 26,
     "title": "Days of Change || Slovakia",
-    "file": "/photos/nature/days_of_change.jpg",
+    "file": "photos/nature/days_of_change.jpg",
     "category": "nature",
     "description": "A lone tree blazes red beneath the clear autumn sky.",
     "latitude": 51.17,
@@ -272,7 +272,7 @@
     },{
     "id": 31,
     "title": "Chicago city pulse || Chicago",
-    "file": "/photos/urban/hicago.jpg",
+    "file": "/photos/urban/chicago.jpg",
     "category": "urban",
     "description": "Chicago busy streets at night.",
     "latitude": 40.70,
@@ -282,7 +282,7 @@
     {
     "id": 32,
     "title": "Window to the past || Italy",
-    "file": "/photos/abstract/windows_to_the_infinite.jpg",
+    "file": "photos/abstract/windows_to_the_infinite.jpg",
     "category": "abstract",
     "description": "Inner yard in Rome.",
     "latitude": 40.70,
